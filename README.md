@@ -51,12 +51,6 @@ Welcome to the **UMIGV Hardware / Embedded Team Onboarding** repository! This do
    - HPS (ARM Processor) terminal access (Serial console & SSH)
    - Compiling and executing `lidar_script.c` live ASCII occupancy grid feed
 
-8. [Onboarding Development & Revamp Guide](docs/08_onboarding_revamp_guide.md)
-   - Mentor program outline & Assistant Lead responsibilities
-   - Resource requirements & hardware inventory checklist
-   - Onboarding structure guidelines for beginners, PCB designers, and computer architecture tracks
-   - Standardized document formatting guidelines
-
 ---
 
 ## 🛠️ Quick Reference & Links
