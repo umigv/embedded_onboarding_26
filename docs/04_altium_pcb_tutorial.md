@@ -106,3 +106,6 @@ Generate production files from `.PcbDoc`:
 1. **Temperature Sensor Board:** Simple analog sensor breakout.
 2. **ESP32 Peripheral Board:** Microcontroller host interface board.
 3. **2-Channel Relay Board:** High-current switching PCB (Reference: [2-Channel Relay PCB Tutorial](https://www.youtube.com/watch?v=dixfFs9lQa4)).
+
+https://docs.google.com/document/d/1yrIzyZlFPnch-mY-_tWLNksymTi5gc8PwfDM4sK8tzc/edit?usp=sharing
+https://docs.google.com/document/d/1x2ErE5xBzpctNxbyjo1b4DQJRqkUs0O5Z7XGj1CZxFg/edit?tab=t.0
